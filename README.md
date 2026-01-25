@@ -141,5 +141,3 @@ Lesen Sie die Dokumentation in:
 * 🖊️ **FH-Doz. Dr. Alexej Schelle** 
 
 ---
-
-Möchtest du, dass ich das für dich erledige?
